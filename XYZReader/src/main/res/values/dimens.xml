@@ -37,4 +37,5 @@
     <dimen name="meta_bar_elevation">2dp</dimen>
     <dimen name="collapsingExpandedTitleMarginEnd">64dp</dimen>
     <dimen name="collapsingExpandedTitleMarginStart">48dp</dimen>
+    <dimen name="toolbar_start_margin">4dp</dimen>
 </resources>
