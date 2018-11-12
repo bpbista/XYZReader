@@ -1,3 +1,12 @@
-= XYZ Reader App
+# XYZ Reader App
 
 This repository stores the XYZ Reader project in Udacity’s Android Nanodegree.
+
+- Used CoordinateorLayout for main screen
+- Used design support library and its provide widget types (FloatingActionButton, AppBarLayout, SnackBar, etc)
+- Theme extended from AppCompat
+- Used AppBar and associated Toolbar
+- Provided a Floating Action Button (share button) as most common action
+- Properly specified elevations for app bars, FABs, and other elements specified in the Material Design specification
+- App has a consistent color theme defined in styles.xml
+- Explored current state of the app and modified as requirements
